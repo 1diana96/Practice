@@ -5,13 +5,19 @@ nav{
 
 a{
 flex: 1;
-background-color: aquamarine;
-color:black;
-border: 1px solid black
+background-color: rgb(0, 82, 148);
+color:rgb(255, 255, 255);
+
+
 
 }
 a:hover{
 
-    background-color: antiquewhite;
-    color:blue
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 82, 148)
+}
+.header{
+    text-decoration: rgb(47, 101, 101);
+    size: 20px;
+    
 }
