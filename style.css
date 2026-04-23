@@ -1,0 +1,17 @@
+nav{
+    display:flex;
+    margin:10px
+}
+
+a{
+flex: 1;
+background-color: aquamarine;
+color:black;
+border: 1px solid black
+
+}
+a:hover{
+
+    background-color: antiquewhite;
+    color:blue
+}
